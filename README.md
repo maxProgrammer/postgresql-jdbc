@@ -5,7 +5,7 @@
 ### Connection using DAO pattern to make a CRUD on system that control employer by department
 
 <h1 align="center">
-  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/167399322-8b79c344-d563-4bdf-88ef-ed6c025fc2ec.gif">
+  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/167483406-31b9b4c5-764b-426f-b381-93f0c3eeb375.gif">
 </h1>
 
 ## 🔘 Fields of DepartmentModel are:
